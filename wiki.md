@@ -1,5 +1,5 @@
 # Jake Fell
-![https://media-exp1.licdn.com/dms/image/C4E03AQFQj8IiccZMvw/profile-displayphoto-shrink_200_200/0/1633370387661?e=1639008000&v=beta&t=Q23LMbD9XADnF_9FZxaRgbTX969XIZQ89zPzZeeV30o]
+![Photo of me](https://media-exp1.licdn.com/dms/image/C4E03AQFQj8IiccZMvw/profile-displayphoto-shrink_200_200/0/1633370387661?e=1639008000&v=beta&t=Q23LMbD9XADnF_9FZxaRgbTX969XIZQ89zPzZeeV30o)
 
 ## About Me
 ### Geographer - Data Analyst - Writer
@@ -47,7 +47,7 @@ Student Research Team Lead, November 2020 - March 2021 - Research team lead for 
 
 [Explanation and Understanding in Geography](https://www.linkedin.com/in/jakefell7/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACa1w70BtAEAp5LA7gWZEcqjUJvhEEtLc_s,1591131122509)/), March 2020 - June 2020 - Researched and produced a literature review on the national impacts of mandatory military conscription using domestic and international research.
 
-![https://github.com/jacobf19/Projects/blob/main/HonorsTeam.jpg?raw=true]
+![GEOG Honors Team.](https://github.com/jacobf19/Projects/blob/main/HonorsTeam.jpg?raw=true)
 2021 Geography Honors Program Research Team.
 
 Though these courses have certain focuses, each of these and many more have taught me both quanitative and qualitative skills inside and outside of geography and given me a desire to continue growing in beyond my time at UW.
@@ -57,7 +57,7 @@ Though these courses have certain focuses, each of these and many more have taug
 For the past two years I have co-led the Bridges International club at the UW, connecting international students to community through group meals, discussions, events, and everyday activities like going to the grocery store or learning to drive.
 My role at Bridges equipped me with skills to communicate across cultures and lead others, traits which I continue to work on daily.
 
-![https://github.com/jacobf19/Projects/blob/main/BridgesMariners.jpg?raw=true]
+![Bridges goes to Seattle Mariners game.](https://github.com/jacobf19/Projects/blob/main/BridgesMariners.jpg?raw=true)
 Bridges goes to a Seattle Mariners game
 
 ## Personal Interests
@@ -65,7 +65,7 @@ In my free time I love to be active and get outside, despite the damp Seattle cl
 I am constantly trying to learn and grow as a person, doing so through reading every day and travelling when possible. 
 I unwind by playing guitar, watching soccer with my local Tottenham Hotspur Supporters club, and spending time with friends and family.
 
-![https://github.com/jacobf19/Projects/blob/main/BikePhoto.jpg?raw=true]
+![Bike Picture](https://github.com/jacobf19/Projects/blob/main/BikePhoto.jpg?raw=true)
 Evening bike ride in Kirkland during July 2021, on the east shores of Lake Washington.
 
 ## Projects and Pages
