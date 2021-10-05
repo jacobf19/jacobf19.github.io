@@ -31,7 +31,7 @@ Even the best data analysis and visualization is useless without contextualizati
 
 Below I have listed a series of courses from my time at the UW which contributed to my software and writing skills. Each is accompanied by dates taken and a short description.
 
-###Software and Mapping Courses:
+### Software and Mapping Courses:
 Mobile and Web GIS, September 2021 – Present – In progress.
 
 GIS Database Management, January 2021 - March 2021 - Mapped LIDAR flood impact data in **Jupyter** solely using **Python**.
@@ -40,7 +40,7 @@ Technical Foundations of Informatics, September 2020 - December 2020 - Construct
 
 Advanced Quantitative Methods, June 2020 - August 2020 - Designed and implemented spatial statistical tests to identify locations of robbery hotspots in Seattle using **Excel** and **ArcGIS Pro**.
 
-###Writing and Research Courses:
+### Writing and Research Courses:
 [Geography Honors Program Research](https://seattlegeography2020.com/housing-moratorium/), September 2020 - June 2021 - COVID-19 eviction moratoria research involving interviews with City of Seattle leadership and discourse analysis in **Atlas TI**.
 
 Student Research Team Lead, November 2020 - March 2021 - Research team lead for school board redistricting project.
