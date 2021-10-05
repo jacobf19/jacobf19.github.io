@@ -86,4 +86,4 @@ Phone Number: 425-953-0405
 
 Thanks for reading my page and getting to know me!
 
-![https://github.com/jacobf19/Projects/blob/main/JakeAlbania.JPG?raw=true]
+![Jake in Albania](https://github.com/jacobf19/Projects/blob/main/JakeAlbania.JPG?raw=true)
